@@ -27,8 +27,55 @@
 | [wizek](#Wizek)                           | intermidiate          | reflex, hs-di      | UTC+2 flexible                             | en       |
 
 ## aggie0
+
+1. Availability
+
+   I'm in grad school in the US, so most times work for me (as long as it's not
+   in the middle of the night in the US).
+
+2. Experience
+
+   A year-ish, don't know much about most language extensions, but I've written
+   a ~1k LOC library for doing some category theory calculations.
+
+3. Interests
+
+   Anything can work, maybe we can alternate. I'm really interested in
+   dependently typed stuff (Idris, Agda). I also have an open source library for
+   some math stuff we can hack on.
+
 ## attilah
+
+1. Availability
+
+   I'm available at any time this week. We can even schedule a session right
+   now.
+
+2. Experience
+
+   I started learning Haskell since about 2012. But it's been more of a on/off
+   kinda thing.
+
+3. Interests
+
+   I'm open to pairing on any project/codebase.
+
 ## echatav
+
+I enjoy pair programming.
+
+1. Availability
+
+   Flexible but say 4pm Mondays Pacific time to choose something specific.
+
+2. Experience
+
+   4.5 years, intermediate to advanced
+
+3. Interests
+
+   Definitely interested in learning Reflex. Interested to learn GHC's codebase.
+   Or we can hack on Squeal.
 
 ## kevroletin
 
@@ -69,9 +116,131 @@
    interesting for me.
 
 ## kmett
+
+I've had good success with using pair programming as a sort of "forcing
+function" to drive me to complete a bunch of tasks that would otherwise sit in
+my back burner for a long time. I'm opening to trying the experiment on the
+internet at broad. I've been debating about that or doing live streams or
+something to serve the same purpose, as it'd force me to set aside a fixed time
+window to work on these things.
+
+1. Availability
+
+   I have pretty good availability on the weekends, and some evenings EDT
+   (UTC-4) and I'm usually on irc.freenode.net as edwardk, so ping me and talk.
+   If I have time I'll often dive right in. Too much structure takes time to
+   manage, and I don't have time for that. =)
+
+2. Experience
+
+   I know Haskell, uh.. reasonably well.
+
+3. Interests
+
+   There's a pretty broad cross-section of projects I have in the air, so he's
+   what I have that seems to make sense to pair on off the top of my head,
+   ranked in terms of immediacy:
+
+   In the short term I'm interested in releasing a bunch of packages for
+   unpacked containers abusing backpack. That stuff I could probably pair with
+   anybody who is interested in backpack and knows the general cut of
+   containers, unordered-containers, etc. It is mostly syntactic work and
+   packaging. This would be of fairly general applicability because most of the
+   time when somebody imports Set or HashSet or Map in a module they go to use
+   it at one type anyways. Getting an across-the-board improvement in memory
+   locality and footprint seems like a no-brainer. -- [Edit: I just wrote this
+   one.]
+
+   I'm also interested in chewing down the backlog of issues in my current
+   package set. If you have an issue you'd like to get fixed in something I
+   maintain, feel free to reach out.
+
+   I'm also interested in sitting down and playing with QuantifiedConstraints,
+   but for that I'd probably want to pair with someone already well acquainted
+   with some of my previous projects for encoding more category theory in
+   haskell like hask, etc. This has a bit of a higher level of activation
+   because it means I'd have to actually build the appropriate ghc branch,
+   myself, so it'd have a fairly slow start.
+
+   I also have a bunch of more formative work I'm doing on a toy compiler
+   project. This may involve a lot more flailing. If you're familiar with
+   bidirectional typechecking, dependent types and what not this may be a place
+   where pairing makes sense.
+
+   I'll admit my list is a bit me-centric.
+
 ## sh4rk1z
+
+1. Availability
+
+   I could make time for this everyday until 11 April (anytime) but after that I
+   would only have time from 5pm to 9pm GMT+3.
+
+2. Experience
+
+   I'm not at a level where I could complete a basic application from start to
+   finish using haskell (not even close I think) but who wants to pair learn (is
+   that a word?) with me?
+
+3. Interests
+
+   I'm currently going through functors, applicative and monoids but I don't
+   have any problem even starting from the start to stabilize my base.
+
+   What we would do: Having an immediate communication
+   link(skype/telegram/anything goes) so we could ask each other questions and
+   solve code problems alone then share answers and think of a better way to
+   code it.
+
 ## tech-learner-maker
+
+1. Availability
+
+   Anytime between 5pm to 8 pm [GMT+ 5.30] or 12 pm to 2 pm [GMT + 5.30]
+
+2. Experience
+
+   One year working out of self interest. need more experience.
+
+3. Interests
+
+   Projects - Interested to work on hledger project as I use it a lot. Also GTK+
+   binding of haskell to make a fun pomodoro. Or can hack on anything fun.
+
 ## therealjohnfreeman
+
+1. Availability
+
+   Evenings and weekends in Central Time (Texas, USA).
+
+2. Experience
+
+   I think I'm your typical Haskell beginner: several false starts across 7+
+   years. I wrote some Advent of Code solutions in Haskell, but I'm not sure I
+   could write them again today. Writing Haskell feels like tying knots: if you
+   don't use it, you lose it.
+
+3. Interests
+
+   I'd really like to start with good tooling from the beginning: stack, hlint
+   (is that still a thing?), syntax highlighting in Vim, errors marked in Vim
+   without blocking the UI, an auto-formatter. I don't know what the gold
+   standard tools are these days, and I abhor solutions that consist of dumping
+   a bunch of Vim plugins in my configuration because they inevitably fail to
+   play well with the others I already have. This is not a must have, but it's a
+   nice to have.
+
+   I was part of a study group in NYC that worked through the Learn Haskell book
+   (now titled Haskell Programming: From First Principles), but I couldn't keep
+   up with the schedule and fell behind and out. I'd like to restart that and
+   get through the book. There are some exercises in there. I'd like to write
+   solutions to put on Github as evidence that I finished the book.
+
+   After I get a baseline understanding, I want to work through some problem
+   sets, specifically Exercism and each year of Advent of Code.
+
+   After that, I think I can branch off on my own. My first real project is
+   resurrecting my dead blog in Hakyll.
 
 ## wizek
 
