@@ -86,3 +86,7 @@
      https://gist.github.com/Wizek/396b0a608fa93d7d458a78dbf7c88870 Maybe with
      someone who has a deeper understanding than I currently possess about GHC
      and similar type errors.
+
+
+  #+ATTR_HTML: title="Join the chat at https://gitter.im/haskell-pair-programming/Lobby"
+  [[https://gitter.im/haskell-pair-programming/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge][file:https://badges.gitter.im/haskell-pair-programming/Lobby.svg]]
