@@ -1,3 +1,5 @@
+[![Come chat on Gitter](https://badges.gitter.im/haskell-pair-programming/Lobby.svg)](https://gitter.im/haskell-pair-programming/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Rules
 
 0. Tell everyone about the club.
@@ -87,4 +89,3 @@
      someone who has a deeper understanding than I currently possess about GHC
      and similar type errors.
 
-[![gitter](https://badges.gitter.im/haskell-pair-programming/Lobby.svg)](https://gitter.im/haskell-pair-programming/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
