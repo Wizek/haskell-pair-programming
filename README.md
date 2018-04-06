@@ -15,7 +15,7 @@
 ## Summary table
 
 |                                           | Level                 | Preference         | Time                                       | Language |
-|-------------------------------------------+-----------------------+--------------------+--------------------------------------------+----------|
+| ----------------------------------------- | --------------------- | ------------------ | ------------------------------------------ | -------- |
 | [aggie0](#Aggie0)                         | begginer-intermidiate | US, flexible       | cat theory, dependent types                | en       |
 | [attilah](#attilah)                       | beginner-intermidiate | -                  | ? flexible                                 | en       |
 | [echatav](#echatav)                       | intermediate-advanced | reflex, ghc, squel | Pacific time, flexible, better 4pm Mondays | en       |
