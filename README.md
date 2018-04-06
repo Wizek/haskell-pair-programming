@@ -8,12 +8,7 @@
    edit the file.
 2. Add short contact info into the summary table and verbose info as a separate
    section below. Keep alphabetical order.
-3. There are two chats for find partners:
-   + **[quick connections](https://gitter.im/haskell-pair-programming/QuickConnections)**
-     to find a partner withing 30 minutes time window
-   + **[the main chat](https://gitter.im/haskell-pair-programming/Lobby)** to
-     find someone for a longer partnership or for general discussions.
-4. Nicknames in chat rooms and should match to names in this list.
+3. Nicknames in chat rooms and should match to names in this list.
 
 ## Summary table
 
