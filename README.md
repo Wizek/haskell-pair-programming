@@ -14,11 +14,21 @@
 
 ## Summary table
 
-|                           | Level                 | Preference    | Time            | Language |
-|---------------------------|-----------------------|---------------|-----------------|----------|
-| [kevroletin](#kevroletin] | beginner-intermidiate | -             | UTC+10 flexible | en,ru    |
-| [Wizek](wizek)            | intermidiate          | reflex, hs-di | UTC+2 flexible  | en       |
+|                                           | Level                 | Preference         | Time                                       | Language |
+|-------------------------------------------+-----------------------+--------------------+--------------------------------------------+----------|
+| [aggie0](#Aggie0)                         | begginer-intermidiate | US, flexible       | cat theory, dependent types                | en       |
+| [attilah](#attilah)                       | beginner-intermidiate | -                  | ? flexible                                 | en       |
+| [echatav](#echatav)                       | intermediate-advanced | reflex, ghc, squel | Pacific time, flexible, better 4pm Mondays | en       |
+| [kevroletin](#kevroletin]                 | beginner-intermidiate | -                  | UTC+10 flexible                            | en,ru    |
+| [kmett](#kmett)                           | expert                | own projects       | EDT (UTC-4) weekends, and some evenings    | en       |
+| [sh4rk1z](#sh4rk1z)                       | beginner              | GMT+3              | Learning a book                            | en       |
+| [tech-learner-maker](#tech-learner-maker) | begginer-intermidiate | hledger            | GMT+5.30, 5-8pm or 12-2pm                  | en       |
+| [therealjohnfreeman](#therealjohnfreeman) | beginner              | book exercises     | Texas, evenings and weekends               | en       |
+| [wizek](#Wizek)                           | intermidiate          | reflex, hs-di      | UTC+2 flexible                             | en       |
 
+## aggie0
+## attilah
+## echatav
 
 ## kevroletin
 
@@ -58,6 +68,11 @@
    small silly project, or want to work with existing tools, that will be
    interesting for me.
 
+## kmett
+## sh4rk1z
+## tech-learner-maker
+## therealjohnfreeman
+
 ## wizek
 
 1. Availability 
@@ -88,4 +103,3 @@
      https://gist.github.com/Wizek/396b0a608fa93d7d458a78dbf7c88870 Maybe with
      someone who has a deeper understanding than I currently possess about GHC
      and similar type errors.
-
