@@ -1,4 +1,4 @@
-** Rules
+## Rules
 
 0. Tell everyone about the club.
 1. Join chat XXX. You will obtain collaborator rights to edit this file.
@@ -10,15 +10,15 @@
                       discussions.
 4. Nicknames in chat rooms and in this list should match.
 
-** Summary table
+## Summary table
 
-|            | Level                 | Preference    | Time            | Language |
-|------------+-----------------------+---------------+-----------------+----------|
-| [[#kevroletin][kevroletin]] | beginner-intermidiate | -             | UTC+10 flexible | en,ru    |
-| [[#wizek][Wizek]]      | intermidiate          | reflex, hs-di | UTC+2 flexible  | en       |
+|                           | Level                 | Preference    | Time            | Language |
+|---------------------------|-----------------------|---------------|-----------------|----------|
+| [kevroletin](#kevroletin] | beginner-intermidiate | -             | UTC+10 flexible | en,ru    |
+| [Wizek](wizek)            | intermidiate          | reflex, hs-di | UTC+2 flexible  | en       |
 
 
-** kevroletin
+## kevroletin
 
 1. Availability
 
@@ -56,7 +56,7 @@
    small silly project, or want to work with existing tools, that will be
    interesting for me.
 
-** wizek
+## wizek
 
 1. Availability 
 
@@ -87,6 +87,4 @@
      someone who has a deeper understanding than I currently possess about GHC
      and similar type errors.
 
-
-  #+ATTR_HTML: title="Join the chat at https://gitter.im/haskell-pair-programming/Lobby"
-  [[https://gitter.im/haskell-pair-programming/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge][file:https://badges.gitter.im/haskell-pair-programming/Lobby.svg]]
+[file:https://badges.gitter.im/haskell-pair-programming/Lobby.svg](https://gitter.im/haskell-pair-programming/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
