@@ -87,4 +87,4 @@
      someone who has a deeper understanding than I currently possess about GHC
      and similar type errors.
 
-[file:https://badges.gitter.im/haskell-pair-programming/Lobby.svg](https://gitter.im/haskell-pair-programming/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+![https://badges.gitter.im/haskell-pair-programming/Lobby.svg](https://gitter.im/haskell-pair-programming/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
