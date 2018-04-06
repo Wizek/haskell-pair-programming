@@ -3,28 +3,31 @@
 ## Rules
 
 0. Tell everyone about the club.
-1. Join chat XXX. You will obtain collaborator rights to edit this file.
-2. Add short contact info into a summary table and verbose info as a separate
+1. Join [the chat](https://gitter.im/haskell-pair-programming/Lobby). You will
+   obtain collaborator rights to edit this file. Or someone will help you to
+   edit the file.
+2. Add short contact info into the summary table and verbose info as a separate
    section below. Keep alphabetical order.
 3. There are two chats for find partners:
-   + the quick one :: to find a partner withing 30 minutes time window
-   + the other one :: to find someone for a longer partnership or for general
-                      discussions.
-4. Nicknames in chat rooms and in this list should match.
+   + **[quick connections](https://gitter.im/haskell-pair-programming/QuickConnections)**
+     to find a partner withing 30 minutes time window
+   + **[the main chat](https://gitter.im/haskell-pair-programming/Lobby)** to
+     find someone for a longer partnership or for general discussions.
+4. Nicknames in chat rooms and should match to names in this list.
 
 ## Summary table
 
-|                                           | Level                 | Preference         | Time                                       | Language |
-| ----------------------------------------- | --------------------- | ------------------ | ------------------------------------------ | -------- |
-| [aggie0](#Aggie0)                         | begginer-intermidiate | US, flexible       | cat theory, dependent types                | en       |
-| [attilah](#attilah)                       | beginner-intermidiate | -                  | ? flexible                                 | en       |
-| [echatav](#echatav)                       | intermediate-advanced | reflex, ghc, squel | Pacific time, flexible, better 4pm Mondays | en       |
-| [kevroletin](#kevroletin)                 | beginner-intermidiate | -                  | UTC+10 flexible                            | en,ru    |
-| [kmett](#kmett)                           | expert                | own projects       | EDT (UTC-4) weekends, and some evenings    | en       |
-| [sh4rk1z](#sh4rk1z)                       | beginner              | GMT+3              | Learning a book                            | en       |
-| [tech-learner-maker](#tech-learner-maker) | begginer-intermidiate | hledger            | GMT+5.30, 5-8pm or 12-2pm                  | en       |
-| [therealjohnfreeman](#therealjohnfreeman) | beginner              | book exercises     | Texas, evenings and weekends               | en       |
-| [wizek](#Wizek)                           | intermidiate          | reflex, hs-di      | UTC+2 flexible                             | en       |
+|                                           | Level                 | Preference                  | Time                                       | Language |
+| ----------------------------------------- | --------------------- | --------------------------- | ------------------------------------------ | -------- |
+| [aggie0](#Aggie0)                         | begginer-intermidiate | cat theory, dependent types | US, flexible                               | en       |
+| [attilah](#attilah)                       | beginner-intermidiate | -                           | ? flexible                                 | en       |
+| [echatav](#echatav)                       | intermediate-advanced | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | en       |
+| [kevroletin](#kevroletin)                 | beginner-intermidiate | -                           | UTC+10 flexible                            | en,ru    |
+| [kmett](#kmett)                           | expert                | own projects                | EDT (UTC-4) weekends, and some evenings    | en       |
+| [sh4rk1z](#sh4rk1z)                       | beginner              | GMT+3                       | Learning a book                            | en       |
+| [tech-learner-maker](#tech-learner-maker) | begginer-intermidiate | hledger                     | GMT+5.30, 5-8pm or 12-2pm                  | en       |
+| [therealjohnfreeman](#therealjohnfreeman) | beginner              | book exercises              | Texas, evenings and weekends               | en       |
+| [wizek](#Wizek)                           | intermidiate          | reflex, hs-di               | UTC+2 flexible                             | en       |
 
 ## aggie0
 
