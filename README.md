@@ -19,7 +19,7 @@
 | [aggie0](#Aggie0)                         | begginer-intermidiate | US, flexible       | cat theory, dependent types                | en       |
 | [attilah](#attilah)                       | beginner-intermidiate | -                  | ? flexible                                 | en       |
 | [echatav](#echatav)                       | intermediate-advanced | reflex, ghc, squel | Pacific time, flexible, better 4pm Mondays | en       |
-| [kevroletin](#kevroletin]                 | beginner-intermidiate | -                  | UTC+10 flexible                            | en,ru    |
+| [kevroletin](#kevroletin)                 | beginner-intermidiate | -                  | UTC+10 flexible                            | en,ru    |
 | [kmett](#kmett)                           | expert                | own projects       | EDT (UTC-4) weekends, and some evenings    | en       |
 | [sh4rk1z](#sh4rk1z)                       | beginner              | GMT+3              | Learning a book                            | en       |
 | [tech-learner-maker](#tech-learner-maker) | begginer-intermidiate | hledger            | GMT+5.30, 5-8pm or 12-2pm                  | en       |
