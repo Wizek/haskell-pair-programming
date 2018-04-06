@@ -8,7 +8,7 @@
    edit the file.
 2. Add short contact info into the summary table and verbose info as a separate
    section below. Keep alphabetical order.
-3. Nicknames in chat rooms and should match to names in this list.
+3. Nicknames in chat room should match to names in this list.
 
 ## Summary table
 
@@ -19,7 +19,7 @@
 | [echatav](#echatav)                       | intermediate-advanced | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | en       |
 | [kevroletin](#kevroletin)                 | beginner-intermidiate | -                           | UTC+10 flexible                            | en,ru    |
 | [kmett](#kmett)                           | expert                | own projects                | EDT (UTC-4) weekends, and some evenings    | en       |
-| [sh4rk1z](#sh4rk1z)                       | beginner              | GMT+3                       | Learning a book                            | en       |
+| [sh4rk1z](#sh4rk1z)                       | beginner              | Learning a book             | GMT+3                                      | en       |
 | [tech-learner-maker](#tech-learner-maker) | begginer-intermidiate | hledger                     | GMT+5.30, 5-8pm or 12-2pm                  | en       |
 | [therealjohnfreeman](#therealjohnfreeman) | beginner              | book exercises              | Texas, evenings and weekends               | en       |
 | [wizek](#Wizek)                           | intermidiate          | reflex, hs-di               | UTC+2 flexible                             | en       |
