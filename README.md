@@ -22,7 +22,7 @@
 | [sh4rk1z](#sh4rk1z)                       | beginner              | Learning a book             | GMT+3                                      | en       |
 | [tech-learner-maker](#tech-learner-maker) | begginer-intermidiate | hledger                     | GMT+5.30, 5-8pm or 12-2pm                  | en       |
 | [therealjohnfreeman](#therealjohnfreeman) | beginner              | book exercises              | Texas, evenings and weekends               | en       |
-| [wizek](#Wizek)                           | intermidiate          | reflex, hs-di               | UTC+2 flexible                             | en       |
+| [Wizek](#Wizek)                           | intermidiate          | reflex, hs-di               | UTC+2 flexible                             | en       |
 
 ## aggie0
 
@@ -240,7 +240,7 @@ window to work on these things.
    After that, I think I can branch off on my own. My first real project is
    resurrecting my dead blog in Hakyll.
 
-## wizek
+## Wizek
 
 1. Availability 
 
