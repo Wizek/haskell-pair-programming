@@ -19,9 +19,9 @@
 | [echatav](#echatav)                       | 🚁   | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | 🇺🇸   |
 | [kevroletin](#kevroletin)                 | 🚗   | -                           | UTC+10 flexible                            | 🇺🇸 🇷🇺 |
 | [kmett](#kmett)                           | ✈️🚀 | own projects                | EDT (UTC-4) weekends, and some evenings    | 🇺🇸   |
-| [sh4rk1z](#sh4rk1z)                       | 🚲   | Learning a book             | UTC+3                                      | 🇺🇸   |
+| [sh4rk1z](#sh4rk1z)                       | 🚶🚲  | Learning a book             | UTC+3                                      | 🇺🇸   |
 | [tech-learner-maker](#tech-learner-maker) | 🚗   | hledger                     | UTC+5:30, 5-8pm or 12-2pm                  | 🇺🇸   |
-| [therealjohnfreeman](#therealjohnfreeman) | 🚲   | book exercises              | UTC-5 Texas, evenings and weekends         | 🇺🇸   |
+| [therealjohnfreeman](#therealjohnfreeman) | 🚶🚲  | book exercises              | UTC-5 Texas, evenings and weekends         | 🇺🇸   |
 | [wizek](#wizek)                           | 🚗🚁 | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺 |
 
 Legend:  
