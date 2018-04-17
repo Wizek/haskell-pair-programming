@@ -22,7 +22,7 @@
 | [ekmett](#ekmett)                         | ✈️🚀 | own projects                | UTC-4 (EDT) weekends, and some evenings    | 🇺🇸   |
 | [kwf](#kwf)                               | 🚁✈️ | -                           | UTC-4 (EDT) weekends, maybe W or F afternoons | 🇺🇸 |
 | [sebastian](#sebastian)                   | 🚲    | -                           | UTC+2 (CEST) weekends or evenings         | 🇺🇸 🇩🇪 🇳🇴 |
-| [sh4rk1z](#sh4rk1z)                       | 🚶 🚲 | Learning a book             | UTC+3                                      | 🇺🇸   |
+| [sh4rk1z](#sh4rk1z)                       | 🚶 🚲 | Pair Learning               | UTC+3                                      | 🇺🇸 🇬🇷 🇷🇴 |
 | [tech-learner-maker](#tech-learner-maker) | 🚗   | hledger                     | UTC+5:30, 5-8pm or 12-2pm                  | 🇺🇸   |
 | [therealjohnfreeman](#therealjohnfreeman) | 🚶 🚲 | book exercises              | UTC-5 Texas, evenings and weekends         | 🇺🇸   |
 | [wizek](#wizek)                           | 🚗🚁 | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺 |
@@ -269,22 +269,22 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
 
 1. Availability
 
-   I could make time for this everyday until 11 April (anytime) but after that I
-   would only have time from 5pm to 9pm GMT+3.
+   I could make time for this everyday from 5pm to 9pm [GMT+3] (or more..) .
 
 2. Experience
 
    I'm not at a level where I could complete a basic application from start to
-   finish using haskell (not even close I think) but who wants to pair learn (is
-   that a word?) with me?
+   finish using Haskell (quite far) but I will still enjoy to learn with someone else
+   as both a way to keep me motivated, learn faster and share our experience,
+   maybe we even manage to work on something together.
 
-3. Interests
+3. Interests (Current learning progress)
 
    I'm currently going through functors, applicative and monoids but I don't
    have any problem even starting from the start to stabilize my base.
 
    What we would do: Having an immediate communication
-   link(skype/telegram/anything goes) so we could ask each other questions and
+   link (skype/telegram/anything goes) so we could ask each other questions and
    solve code problems alone then share answers and think of a better way to
    code it.
 
