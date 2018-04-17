@@ -283,10 +283,9 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
    I'm currently going through functors, applicative and monoids but I don't
    have any problem even starting from the start to stabilize my base.
 
-   What we would do: Having an immediate communication
-   link (skype/telegram/anything goes) so we could ask each other questions and
-   solve code problems alone then share answers and think of a better way to
-   code it.
+   What we would do: Having an immediate communication so we keep each other from
+   getting stuck, work on problems solo and then together and maybe we could share
+   a google doc on which we work using the Feyman method for learning (make it public for others?).
 
 ## tech-learner-maker
 
