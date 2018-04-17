@@ -18,9 +18,9 @@
 | [attilah](#attilah)                       | 🚗   | -                           | ? flexible                                 | 🇺🇸   |
 | [echatav](#echatav)                       | 🚁   | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | 🇺🇸   |
 | [kevroletin](#kevroletin)                 | 🚗   | -                           | UTC+10 flexible                            | 🇺🇸 🇷🇺 |
-| [ekmett](#ekmett)                         | ✈️🚀 | own projects                | EDT (UTC-4) weekends, and some evenings    | 🇺🇸   |
-| [kwf](#kwf)                               | 🚁✈️ | -                           | EDT (UTC-4) weekends, maybe W or F afternoons | 🇺🇸 |
-| [sebastian](#sebastian)                   | 🚲    | -                           | CEST (UTC+2) weekends or evenings         | 🇺🇸 🇩🇪 🇳🇴 |
+| [ekmett](#ekmett)                         | ✈️🚀 | own projects                | UTC-4 (EDT) weekends, and some evenings    | 🇺🇸   |
+| [kwf](#kwf)                               | 🚁✈️ | -                           | UTC-4 (EDT) weekends, maybe W or F afternoons | 🇺🇸 |
+| [sebastian](#sebastian)                   | 🚲    | -                           | UTC+2 (CEST) weekends or evenings         | 🇺🇸 🇩🇪 🇳🇴 |
 | [sh4rk1z](#sh4rk1z)                       | 🚶 🚲 | Learning a book             | UTC+3                                      | 🇺🇸   |
 | [tech-learner-maker](#tech-learner-maker) | 🚗   | hledger                     | UTC+5:30, 5-8pm or 12-2pm                  | 🇺🇸   |
 | [therealjohnfreeman](#therealjohnfreeman) | 🚶 🚲 | book exercises              | UTC-5 Texas, evenings and weekends         | 🇺🇸   |
