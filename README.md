@@ -12,17 +12,21 @@
 
 ## Summary table
 
-|                                           | Level                 | Preference                  | Time                                       | Language |
-| ----------------------------------------- | --------------------- | --------------------------- | ------------------------------------------ | -------- |
-| [aggie0](#aggie0)                         | begginer-intermidiate | cat theory, dependent types | US, flexible                               | 🇺🇸       |
-| [attilah](#attilah)                       | beginner-intermidiate | -                           | ? flexible                                 | 🇺🇸       |
-| [echatav](#echatav)                       | intermediate-advanced | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | 🇺🇸       |
-| [kevroletin](#kevroletin)                 | beginner-intermidiate | -                           | UTC+10 flexible                            | 🇺🇸 🇷🇺   |
-| [kmett](#kmett)                           | expert                | own projects                | EDT (UTC-4) weekends, and some evenings    | 🇺🇸       |
-| [sh4rk1z](#sh4rk1z)                       | beginner              | Learning a book             | GMT+3                                      | 🇺🇸       |
-| [tech-learner-maker](#tech-learner-maker) | begginer-intermidiate | hledger                     | GMT+5.30, 5-8pm or 12-2pm                  | 🇺🇸       |
-| [therealjohnfreeman](#therealjohnfreeman) | beginner              | book exercises              | Texas, evenings and weekends               | 🇺🇸       |
-| [wizek](#wizek)                           | intermidiate          | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺     |
+|                                           | Level | Preference                  | Time                                       | Lang |
+| ----------------------------------------- | ----- | --------------------------- | ------------------------------------------ | ---- |
+| [aggie0](#aggie0)                         | 🚗   | cat theory, dependent types | US, flexible                               | 🇺🇸   |
+| [attilah](#attilah)                       | 🚗   | -                           | ? flexible                                 | 🇺🇸   |
+| [echatav](#echatav)                       | 🚁   | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | 🇺🇸   |
+| [kevroletin](#kevroletin)                 | 🚗   | -                           | UTC+10 flexible                            | 🇺🇸 🇷🇺 |
+| [kmett](#kmett)                           | ✈️🚀 | own projects                | EDT (UTC-4) weekends, and some evenings    | 🇺🇸   |
+| [sh4rk1z](#sh4rk1z)                       | 🚲   | Learning a book             | GMT+3                                      | 🇺🇸   |
+| [tech-learner-maker](#tech-learner-maker) | 🚗   | hledger                     | GMT+5.30, 5-8pm or 12-2pm                  | 🇺🇸   |
+| [therealjohnfreeman](#therealjohnfreeman) | 🚲   | book exercises              | Texas, evenings and weekends               | 🇺🇸   |
+| [wizek](#wizek)                           | 🚗🚁 | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺 |
+
+Legend:  
+Experience level: 🚶 novice, 🚲 beginner, 🚗 intermediate, 🚁 advanced, ✈️ expert, 🚀 master  
+Language: 🇺🇸 English, 🇭🇺 Hungarian, 🇷🇺 Russian, etc...
 
 ## Profile questions
 
