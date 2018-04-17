@@ -25,8 +25,8 @@
 | [wizek](#wizek)                           | 🚗🚁 | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺 |
 
 Legend:  
-Experience level: 🚶 novice, 🚲 beginner, 🚗 intermediate, 🚁 advanced, ✈️ expert, 🚀 master  
-Language: 🇺🇸 English, 🇭🇺 Hungarian, 🇷🇺 Russian, etc...
+Self-assessed experience level: 🚶 novice, 🚲 beginner, 🚗 intermediate, 🚁 advanced, ✈️ expert, 🚀 master  
+Spoken language: 🇺🇸 English, 🇭🇺 Hungarian, 🇷🇺 Russian, etc...
 
 ## Profile questions
 
