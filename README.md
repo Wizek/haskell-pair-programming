@@ -18,7 +18,7 @@
 | [attilah](#attilah)                       | 🚗   | -                           | ? flexible                                 | 🇺🇸   |
 | [echatav](#echatav)                       | 🚁   | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | 🇺🇸   |
 | [kevroletin](#kevroletin)                 | 🚗   | -                           | UTC+10 flexible                            | 🇺🇸 🇷🇺 |
-| [kmett](#kmett)                           | ✈️🚀 | own projects                | EDT (UTC-4) weekends, and some evenings    | 🇺🇸   |
+| [ekmett](#ekmett)                         | ✈️🚀 | own projects                | EDT (UTC-4) weekends, and some evenings    | 🇺🇸   |
 | [sebastian](#sebastian)                   | 🚲    | -                           | CEST (UTC+2) weekends or evenings         | 🇺🇸 🇩🇪 🇳🇴 |
 | [sh4rk1z](#sh4rk1z)                       | 🚶 🚲 | Learning a book             | UTC+3                                      | 🇺🇸   |
 | [tech-learner-maker](#tech-learner-maker) | 🚗   | hledger                     | UTC+5:30, 5-8pm or 12-2pm                  | 🇺🇸   |
@@ -142,7 +142,7 @@ I enjoy pair programming.
    small silly project, or want to work with existing tools, that will be
    interesting for me.
 
-## kmett
+## ekmett
 
 I've had good success with using pair programming as a sort of "forcing
 function" to drive me to complete a bunch of tasks that would otherwise sit in
@@ -164,7 +164,7 @@ window to work on these things.
 
 3. Interests
 
-   There's a pretty broad cross-section of projects I have in the air, so he's
+   There's a pretty broad cross-section of projects I have in the air, so here's
    what I have that seems to make sense to pair on off the top of my head,
    ranked in terms of immediacy:
 
