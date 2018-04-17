@@ -6,7 +6,7 @@
 1. Join [the chat](https://gitter.im/haskell-pair-programming/Lobby). You will
    obtain collaborator rights to edit this file. Or someone will help you to
    edit the file.
-2. Add short contact info into the summary table and verbose info as a separate
+2. Add short contact info into the summary table and [detailed info](#summary-table) as a separate
    section below. Keep alphabetical order.
 3. Nicknames in chat room should match to names in this list.
 
@@ -22,7 +22,30 @@
 | [sh4rk1z](#sh4rk1z)                       | beginner              | Learning a book             | GMT+3                                      | en       |
 | [tech-learner-maker](#tech-learner-maker) | begginer-intermidiate | hledger                     | GMT+5.30, 5-8pm or 12-2pm                  | en       |
 | [therealjohnfreeman](#therealjohnfreeman) | beginner              | book exercises              | Texas, evenings and weekends               | en       |
-| [Wizek](#Wizek)                           | intermidiate          | reflex, hs-di               | UTC+2 flexible                             | en       |
+| [wizek](#wizek)                           | intermidiate          | reflex, hs-di               | UTC+2 flexible                             | en       |
+
+## Profile questions
+
+Note: It's okay if you make an entry without answering some of these questions, it can just help us a bit more if you do answer. It might also help you get the kinds of sessions that you'd like.
+
+1. What's your time availability? 
+    - E.g. "next Saturday 14:00-16:00 UTC" 
+    - Or "generally Wednesday mornings, around 7:00-10:00 am UTC-10"
+    - Or "I don't yet know but I still want to write here and find a time later."
+    - Or "Even now."
+    - (also, let's remember to specify the time-zone)
+
+1. What's your Haskell level of experience, roughly?
+    - "Only heard about it today"
+    - "28 years of experience. Incidentally, my name is Simon Peyton Jones."
+    - anything in-between
+    - "I have lots of experience with TemplateHaskell, and would be interested to pair with someone who knows lenses well."
+
+1. What topics or codebases are you interested in?
+    - "Anything goes. As long as it's Haskell I'm in."
+    - "I mainly want to work on adding the `-XDependentHaskell` extension to GHC. Incidentally, my name is Richard A. Eisenberg."
+    - "I'm interested in contributing to X, Y and Z, but I'm also open to pretty much anything when we switch sides."
+    - "Let's solve exercises together just for learning!"
 
 ## aggie0
 
@@ -240,7 +263,7 @@ window to work on these things.
    After that, I think I can branch off on my own. My first real project is
    resurrecting my dead blog in Hakyll.
 
-## Wizek
+## wizek
 
 1. Availability 
 
