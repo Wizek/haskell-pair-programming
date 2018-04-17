@@ -200,6 +200,8 @@ window to work on these things.
    
 ## kwf
 
+I'm kwf most places on the internet, you may know me as Kenny Foner offline.
+
 1. Availability
 
    This is pretty variable, but right now Wednesdays during the day and weekends
