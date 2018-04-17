@@ -22,7 +22,7 @@
 | [ekmett](#ekmett)                         | ✈️🚀 | own projects                | UTC-4 (EDT) weekends, and some evenings    | 🇺🇸   |
 | [kwf](#kwf)                               | 🚁✈️ | -                           | UTC-4 (EDT) weekends, maybe W or F afternoons | 🇺🇸 |
 | [sebastian](#sebastian)                   | 🚲    | -                           | UTC+2 (CEST) weekends or evenings         | 🇺🇸 🇩🇪 🇳🇴 |
-| [sh4rk1z](#sh4rk1z)                       | 🚶 🚲 | Pair Learning               | UTC+3                                      | 🇺🇸 🇬🇷 🇷🇴 |
+| [taosx](#taosx)                       | 🚶 🚲 | Pair Learning               | UTC+3                                      | 🇺🇸 🇬🇷 🇷🇴 |
 | [tech-learner-maker](#tech-learner-maker) | 🚗   | hledger                     | UTC+5:30, 5-8pm or 12-2pm                  | 🇺🇸   |
 | [therealjohnfreeman](#therealjohnfreeman) | 🚶 🚲 | book exercises              | UTC-5 Texas, evenings and weekends         | 🇺🇸   |
 | [wizek](#wizek)                           | 🚗🚁 | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺 |
@@ -265,7 +265,7 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
      on my part is hacking on [hledger](https://github.com/simonmichael/hledger).
      I would like to add a [YNAB](https://www.youneedabudget.com/)-like interface to it.
 
-## sh4rk1z
+## taosx
 
 1. Availability
 
