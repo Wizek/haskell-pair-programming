@@ -14,15 +14,15 @@
 
 |                                           | Level                 | Preference                  | Time                                       | Language |
 | ----------------------------------------- | --------------------- | --------------------------- | ------------------------------------------ | -------- |
-| [aggie0](#aggie0)                         | begginer-intermidiate | cat theory, dependent types | US, flexible                               | en       |
-| [attilah](#attilah)                       | beginner-intermidiate | -                           | ? flexible                                 | en       |
-| [echatav](#echatav)                       | intermediate-advanced | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | en       |
-| [kevroletin](#kevroletin)                 | beginner-intermidiate | -                           | UTC+10 flexible                            | en,ru    |
-| [kmett](#kmett)                           | expert                | own projects                | EDT (UTC-4) weekends, and some evenings    | en       |
-| [sh4rk1z](#sh4rk1z)                       | beginner              | Learning a book             | GMT+3                                      | en       |
-| [tech-learner-maker](#tech-learner-maker) | begginer-intermidiate | hledger                     | GMT+5.30, 5-8pm or 12-2pm                  | en       |
-| [therealjohnfreeman](#therealjohnfreeman) | beginner              | book exercises              | Texas, evenings and weekends               | en       |
-| [wizek](#wizek)                           | intermidiate          | reflex, hs-di               | UTC+2 flexible                             | en       |
+| [aggie0](#aggie0)                         | begginer-intermidiate | cat theory, dependent types | US, flexible                               | 🇺🇸       |
+| [attilah](#attilah)                       | beginner-intermidiate | -                           | ? flexible                                 | 🇺🇸       |
+| [echatav](#echatav)                       | intermediate-advanced | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | 🇺🇸       |
+| [kevroletin](#kevroletin)                 | beginner-intermidiate | -                           | UTC+10 flexible                            | 🇺🇸 🇷🇺   |
+| [kmett](#kmett)                           | expert                | own projects                | EDT (UTC-4) weekends, and some evenings    | 🇺🇸       |
+| [sh4rk1z](#sh4rk1z)                       | beginner              | Learning a book             | GMT+3                                      | 🇺🇸       |
+| [tech-learner-maker](#tech-learner-maker) | begginer-intermidiate | hledger                     | GMT+5.30, 5-8pm or 12-2pm                  | 🇺🇸       |
+| [therealjohnfreeman](#therealjohnfreeman) | beginner              | book exercises              | Texas, evenings and weekends               | 🇺🇸       |
+| [wizek](#wizek)                           | intermidiate          | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺     |
 
 ## Profile questions
 
