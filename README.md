@@ -196,6 +196,29 @@ window to work on these things.
 
    I'll admit my list is a bit me-centric.
 
+   
+## kwf
+
+1. Availability
+
+   This is pretty variable, but right now Wednesdays during the day and weekends
+   are the best bet. (I'm on USA Eastern time.)
+   
+2. Experience
+
+   I'm a third-year PhD student in programming languages at UPenn. I've written a
+   few Haskell Symposium papers. :) I still have a lot to learn though! And I'd be
+   totally into pairing with someone less experienced, so don't be afraid to ask.
+   
+3. Interests
+
+   I like weird things with laziness, comonads, dependently-typed-ish programming.
+   But in general, I'm down to stretch my comfort zone, so anything might be
+   interesting. Right now my primary work project is developing a pedagogical
+   framework for teaching the fundamentals of distributed systems algorithms in
+   Haskell.
+
+
 ## sebastian
 
 1. What's your time availability?
