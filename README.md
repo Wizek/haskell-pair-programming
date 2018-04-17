@@ -17,6 +17,7 @@
 | [aggie0](#aggie0)                         | 🚗   | cat theory, dependent types | US, flexible                               | 🇺🇸   |
 | [attilah](#attilah)                       | 🚗   | -                           | ? flexible                                 | 🇺🇸   |
 | [echatav](#echatav)                       | 🚁   | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | 🇺🇸   |
+| [chisui](#chisui)                         | 🚗   | -                           | UTC+2 (CEST) Mo, Thu, Fr                   | 🇺🇸 🇩🇪  |
 | [kevroletin](#kevroletin)                 | 🚗   | -                           | UTC+10 flexible                            | 🇺🇸 🇷🇺 |
 | [ekmett](#ekmett)                         | ✈️🚀 | own projects                | UTC-4 (EDT) weekends, and some evenings    | 🇺🇸   |
 | [kwf](#kwf)                               | 🚁✈️ | -                           | UTC-4 (EDT) weekends, maybe W or F afternoons | 🇺🇸 |
@@ -104,6 +105,22 @@ I enjoy pair programming.
 
    Definitely interested in learning Reflex. Interested to learn GHC's codebase.
    Or we can hack on Squeal.
+
+## chisui                                                                                                                                                                                                                                   
+
+I am currently writing a dependently typed actor framework in Haskell as my bachelors thesis.                                                                                                                                               
+
+1. Availability                                                                                                                                                                                                                              
+   
+   I'm available Mondays, Thursdays and Fridays. Maybe on the weekends too if I don't have anything to do.                                                                                                                                  
+
+2. Experience                                                                                                                                                                                                                               
+
+   About 4 years on/off, intermediate.
+
+3. Interests                                                                                                                                                                                                                                
+
+   Learning cool stuff, sharing what I know. And my bachelors thesis I guess.                                                                                                                                                               
 
 ## kevroletin
 
