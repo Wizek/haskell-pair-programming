@@ -19,6 +19,7 @@
 | [echatav](#echatav)                       | 🚁   | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | 🇺🇸   |
 | [kevroletin](#kevroletin)                 | 🚗   | -                           | UTC+10 flexible                            | 🇺🇸 🇷🇺 |
 | [ekmett](#ekmett)                         | ✈️🚀 | own projects                | EDT (UTC-4) weekends, and some evenings    | 🇺🇸   |
+| [kwf](#kwf)                               | 🚁✈️ | -                           | EDT (UTC-4) weekends, maybe W or F afternoons | 🇺🇸 |
 | [sebastian](#sebastian)                   | 🚲    | -                           | CEST (UTC+2) weekends or evenings         | 🇺🇸 🇩🇪 🇳🇴 |
 | [sh4rk1z](#sh4rk1z)                       | 🚶 🚲 | Learning a book             | UTC+3                                      | 🇺🇸   |
 | [tech-learner-maker](#tech-learner-maker) | 🚗   | hledger                     | UTC+5:30, 5-8pm or 12-2pm                  | 🇺🇸   |
@@ -206,9 +207,10 @@ window to work on these things.
    
 2. Experience
 
-   I'm a third-year PhD student in programming languages at UPenn. I've written a
-   few Haskell Symposium papers. :) I still have a lot to learn though! And I'd be
-   totally into pairing with someone less experienced, so don't be afraid to ask.
+   I'm a third-year PhD student in programming languages at UPenn; I've been programming
+   primarily in Haskell for about 6 years. I've also written a few Haskell Symposium papers.
+   :) I still have a lot to learn though! And I'd be totally into pairing with someone less
+   experienced, so don't be afraid to ask.
    
 3. Interests
 
