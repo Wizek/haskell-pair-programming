@@ -25,8 +25,9 @@
 | [wizek](#wizek)                           | 🚗🚁 | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺 |
 
 Legend:  
-Self-assessed experience level: 🚶 novice, 🚲 beginner, 🚗 intermediate, 🚁 advanced, ✈️ expert, 🚀 master  
-Spoken language: 🇺🇸 English, 🇭🇺 Hungarian, 🇷🇺 Russian, etc...
+- Self-assessed experience level: 🚶 novice, 🚲 beginner, 🚗 intermediate, 🚁 advanced, ✈️ expert, 🚀 master  
+- Spoken language: 🇺🇸 English, 🇭🇺 Hungarian, 🇷🇺 Russian, etc...  
+  - Order your language flags based on your preference. You can find your flag by searching [here](https://emojipedia.org).  
 
 ## Profile questions
 
