@@ -6,7 +6,7 @@
 1. Join [the chat](https://gitter.im/haskell-pair-programming/Lobby). You will
    obtain collaborator rights to edit this file. Or someone will help you to
    edit the file.
-2. Add short contact info into the summary table and [detailed info](#summary-table) as a separate
+2. Add short contact info into the summary table and [detailed info](#profile-questions) as a separate
    section below. Keep alphabetical order.
 3. Nicknames in chat room should match to names in this list.
 
@@ -14,7 +14,7 @@
 
 |                                           | Level                 | Preference                  | Time                                       | Language |
 | ----------------------------------------- | --------------------- | --------------------------- | ------------------------------------------ | -------- |
-| [aggie0](#Aggie0)                         | begginer-intermidiate | cat theory, dependent types | US, flexible                               | en       |
+| [aggie0](#aggie0)                         | begginer-intermidiate | cat theory, dependent types | US, flexible                               | en       |
 | [attilah](#attilah)                       | beginner-intermidiate | -                           | ? flexible                                 | en       |
 | [echatav](#echatav)                       | intermediate-advanced | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | en       |
 | [kevroletin](#kevroletin)                 | beginner-intermidiate | -                           | UTC+10 flexible                            | en,ru    |
