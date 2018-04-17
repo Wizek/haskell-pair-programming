@@ -19,6 +19,7 @@
 | [echatav](#echatav)                       | 🚁   | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | 🇺🇸   |
 | [kevroletin](#kevroletin)                 | 🚗   | -                           | UTC+10 flexible                            | 🇺🇸 🇷🇺 |
 | [kmett](#kmett)                           | ✈️🚀 | own projects                | EDT (UTC-4) weekends, and some evenings    | 🇺🇸   |
+| [sebastian](#sebastian)                   | 🚲    | -                           | CEST (UTC+2) weekends or evenings         | 🇺🇸 🇩🇪 🇳🇴 |
 | [sh4rk1z](#sh4rk1z)                       | 🚶🚲  | Learning a book             | UTC+3                                      | 🇺🇸   |
 | [tech-learner-maker](#tech-learner-maker) | 🚗   | hledger                     | UTC+5:30, 5-8pm or 12-2pm                  | 🇺🇸   |
 | [therealjohnfreeman](#therealjohnfreeman) | 🚶🚲  | book exercises              | UTC-5 Texas, evenings and weekends         | 🇺🇸   |
@@ -194,6 +195,31 @@ window to work on these things.
    where pairing makes sense.
 
    I'll admit my list is a bit me-centric.
+
+## sebastian
+
+1. What's your time availability?
+   - During the week early evenings are best for me: 18:00 to 21:00.
+     I am quite flexible on weekends, but have a preference for mornings my time.
+
+1. What's your Haskell level of experience, roughly?
+   - I have had plenty of false starts, but have finally worked my way through
+     [Haskell Programming from first principles](http://haskellbook.com/)
+   - My understanding of the basic concepts seems decent, but I am
+     still fighting with the type checker more often than not.
+     I am definitively a beginner.
+
+1. What topics or codebases are you interested in?
+   - I am porting a light control system I originally wrote in Elixir to Haskell.
+     It has the benefit of being something I need myself, so it's happy to stay
+     motivated
+   - In general I find I learn a lot from watching how other people work.
+     I am more than open for working on any project you find interesting
+   - I would be happy to work on something web related, or say a web
+     based desktop app of some sort
+   - Something that I have been wanting to do but that requires some more research
+     on my part is hacking on [hledger](https://github.com/simonmichael/hledger).
+     I would like to add a [YNAB](https://www.youneedabudget.com/)-like interface to it.
 
 ## sh4rk1z
 
