@@ -14,6 +14,7 @@
 
 |                                           | Level | Preference                  | Time                                       | Lang |
 | ----------------------------------------- | ----- | --------------------------- | ------------------------------------------ | ---- |
+| [abailly](#abailly)                         | 🚁✈️ | anything                     | UTC+2 (CEST) lunch time/evenings            | 🇺🇸 🇫🇷 |
 | [aggie0](#aggie0)                         | 🚗   | cat theory, dependent types | US, flexible                               | 🇺🇸   |
 | [attilah](#attilah)                       | 🚗   | -                           | ? flexible                                 | 🇺🇸   |
 | [echatav](#echatav)                       | 🚁   | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | 🇺🇸   |
@@ -30,8 +31,6 @@
 | [wizek](#wizek)                           | 🚗🚁 | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺 |
 | [YellowDogDingo](#yellowdogdingo)         | 🚗🚁 | anything                    | UTC (GMT) flexible                         | 🇺🇸    |
 | [zfnmxt](#zfnmxt)                         | 🚲   | anything                     | UTC+2 (CEST) weekends/evenings            | 🇺🇸  |
-| [abailly](#abailly)                         | 🚁✈️ | anything                     | UTC+2 (CEST) lunch time/evenings            | 🇺🇸 🇫🇷 |
-
 
 
 Legend:  
@@ -61,6 +60,23 @@ Note: It's okay if you make an entry without answering some of these questions, 
     - "I mainly want to work on adding the `-XDependentHaskell` extension to GHC. Incidentally, my name is Richard A. Eisenberg."
     - "I'm interested in contributing to X, Y and Z, but I'm also open to pretty much anything when we switch sides."
     - "Let's solve exercises together just for learning!"
+
+## abailly
+
+1. Availability
+
+   I'm available some evenings and at lunch time during weekdays.
+
+2. Experience
+
+   I've been programming with Haskell in my spare time since 2001 and professionally since 2014.
+   I have broad knowledge of quite a few parts of Haskell, from building to some type-level wizardry.
+   I code exclusively using TDD, where `T` can stand for `Type` or `Test`.
+
+3. Interests
+
+   Helping others getting stuff done.
+   Learning new ways of working with Haskell.
 
 ## aggie0
 
@@ -467,20 +483,3 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
    "calls". I'm not sure I'd be comfortable doing that and would be more interested in 
    text-based interaction. I don't even necessarily strictly want to do pair-programming--just 
    working together with someone on something would be great!
-
-## abailly
-
-1. Availability
-
-   I'm available some evenings and at lunch time during weekdays.
-
-2. Experience
-
-   I've been programming with Haskell in my spare time since 2001 and professionally since 2014.
-   I have broad knowledge of quite a few parts of Haskell, from building to some type-level wizardry.
-   I code exclusively using TDD, where `T` can stand for `Type` or `Test`.
-
-3. Interests
-
-   Helping others getting stuff done.
-   Learning new ways of working with Haskell.
