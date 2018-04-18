@@ -8,7 +8,7 @@
    edit the file.
 2. Add short contact info into the summary table and [detailed info](#profile-questions) as a separate
    section below. Keep alphabetical order.
-3. Nicknames in chat room should match to names in this list.
+3. Use Github nickname (the same nickname as in [the chat](https://gitter.im/haskell-pair-programming/Lobby)).
 
 ## Summary table
 
