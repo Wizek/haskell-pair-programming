@@ -29,7 +29,7 @@
 | [wizek](#wizek)                           | 🚗🚁 | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺 |
 | [YellowDogDingo](#yellowdogdingo)         | 🚗🚁 | anything                    | UTC (GMT) flexible                         | 🇺🇸    |
 | [zfnmxt](#zfnmxt)                         | 🚲   | anything                     | UTC+2 (CEST) weekends/evenings            | 🇺🇸  |
-| [abailly](#abailly)                         | 🚁✈️ | anything                     | UTC+2 (CEST) lunch time/evenings            | 🇺🇸🇫🇷|
+| [abailly](#abailly)                         | 🚁✈️ | anything                     | UTC+2 (CEST) lunch time/evenings            | 🇺🇸|
 
 
 
