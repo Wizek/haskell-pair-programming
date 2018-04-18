@@ -25,9 +25,10 @@
 | [taosx](#taosx)                       | 🚶 🚲 | Pair Learning               | UTC+3                                      | 🇺🇸 🇬🇷 🇷🇴 |
 | [tech-learner-maker](#tech-learner-maker) | 🚗   | hledger                     | UTC+5:30, 5-8pm or 12-2pm                  | 🇺🇸   |
 | [therealjohnfreeman](#therealjohnfreeman) | 🚶 🚲 | book exercises              | UTC-5 Texas, evenings and weekends         | 🇺🇸   |
+| [vaibhavsagar](#vaibhavsagar)         | 🚲🚗 | anything                    | UTC+8, evenings and weekends                         | 🇺🇸    |
 | [wizek](#wizek)                           | 🚗🚁 | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺 |
 | [YellowDogDingo](#yellowdogdingo)         | 🚗🚁 | anything                    | UTC (GMT) flexible                         | 🇺🇸    |
-| [vaibhavsagar](#vaibhavsagar)         | 🚲🚗 | anything                    | UTC+8, evenings and weekends                         | 🇺🇸    |
+
 
 Legend:  
 - Self-assessed experience level: 🚶 novice, 🚲 beginner, 🚗 intermediate, 🚁 advanced, ✈️ expert, 🚀 master  
@@ -339,6 +340,25 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
    After that, I think I can branch off on my own. My first real project is
    resurrecting my dead blog in Hakyll.
 
+## vaibhavsagar
+
+1. Availability
+
+   I have a fairly standard 9am-6pm job, and I'd be happy to pair from 8pm my
+   time onwards or early in the morning if that suits you better.
+
+2. Experience
+
+   I've been using Haskell seriously for about two years but not
+   professionally.  I'm a maintainer of the IHaskell project and have
+   contributed numerous typo fixes to Haskell projects such as Cabal and GHC.
+
+3. Interests
+
+   I'm interested in applying functional programming to solve problems. I use
+   Nix in my day job and am slowly working through the Idris book. I'm happy to
+   pair with people of any experience level.
+
 ## wizek
 
 1. Availability
@@ -399,22 +419,3 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
 
    I'm interested on collaborating on pretty much anything and I'm happy to pair
    with people of any experience.
-
-## vaibhavsagar
-
-1. Availability
-
-   I have a fairly standard 9am-6pm job, and I'd be happy to pair from 8pm my
-   time onwards or early in the morning if that suits you better.
-
-2. Experience
-
-   I've been using Haskell seriously for about two years but not
-   professionally.  I'm a maintainer of the IHaskell project and have
-   contributed numerous typo fixes to Haskell projects such as Cabal and GHC.
-
-3. Interests
-
-   I'm interested in applying functional programming to solve problems. I use
-   Nix in my day job and am slowly working through the Idris book. I'm happy to
-   pair with people of any experience level.
