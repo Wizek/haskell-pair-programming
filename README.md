@@ -463,6 +463,7 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
 
    I've been programming with Haskell in my spare time since 2001 and professionally since 2014.
    I have broad knowledge of quite a few parts of Haskell, from building to some type-level wizardry.
+   I code exclusively using TDD, where `T` can stand for `Type` or `Test`.
 
 3. Interests
 
