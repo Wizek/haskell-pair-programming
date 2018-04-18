@@ -28,6 +28,8 @@
 | [vaibhavsagar](#vaibhavsagar)         | 🚲🚗 | anything                    | UTC+8, evenings and weekends                         | 🇺🇸    |
 | [wizek](#wizek)                           | 🚗🚁 | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺 |
 | [YellowDogDingo](#yellowdogdingo)         | 🚗🚁 | anything                    | UTC (GMT) flexible                         | 🇺🇸    |
+| [zfnmxt](#zfnmxt)                         | 🚲   | anything                     | UTC+2 (CEST) weekends/evenings            | 🇺🇸  |
+
 
 
 Legend:  
@@ -419,3 +421,31 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
 
    I'm interested on collaborating on pretty much anything and I'm happy to pair
    with people of any experience.
+
+## zfnmxt
+
+1. Availability
+
+   I'm available most evenings/weekends--I'm a student, so potentially 
+   other times work too depending on lectures for the day.
+
+2. Experience
+
+   I'm a beginner.
+
+   I took an FP course the first semester of my MSc and am familiar with
+   most of the content in Haskell from First Principles. 
+   I've also done Brent Yorgey's UPenn course. I'm also somewhat familiar
+   with Coq and semantics/type theory. I have an okay (albeit fairly applied/non-rigorous)
+   mathematical background. 
+
+3. Interests
+
+   My GitHub is empty: I want to change that. I'm also bad at git and I'd basically just
+   like to get involved in the whole ecosystem of working on a project together with someone. 
+   But I'd also like to simply get better at Haskell; I'm open to working on anything.
+   
+   I noticed that in the /r/Haskell posts, the pair-programming sessions were referred to as
+   "calls". I'm not sure I'd be comfortable doing that and would be more interested in 
+   text-based interaction. I don't even necessarily strictly want to do pair-programming: just 
+   working together with someone on something would be great!
