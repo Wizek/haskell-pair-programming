@@ -22,6 +22,7 @@
 | [ekmett](#ekmett)                         | ✈️🚀 | own projects                | UTC-4 (EDT) weekends, and some evenings    | 🇺🇸   |
 | [kwf](#kwf)                               | 🚁✈️ | -                           | UTC-4 (EDT) weekends, maybe W or F afternoons | 🇺🇸 |
 | [sebastian](#sebastian)                   | 🚲    | -                           | UTC+2 (CEST) weekends or evenings         | 🇺🇸 🇩🇪 🇳🇴 |
+| [srid](#srid)                   | 🚲🚗  | reflex                           | UTC+5 (EST) weekends or late evenings         | 🇺🇸 🇫🇷 |
 | [taosx](#taosx)                       | 🚶 🚲 | Pair Learning               | UTC+3                                      | 🇺🇸 🇬🇷 🇷🇴 |
 | [tech-learner-maker](#tech-learner-maker) | 🚗   | hledger                     | UTC+5:30, 5-8pm or 12-2pm                  | 🇺🇸   |
 | [therealjohnfreeman](#therealjohnfreeman) | 🚶 🚲 | book exercises              | UTC-5 Texas, evenings and weekends         | 🇺🇸   |
@@ -271,6 +272,20 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
      on my part is hacking on [hledger](https://github.com/simonmichael/hledger).
      I would like to add a [YNAB](https://www.youneedabudget.com/)-like interface to it.
 
+## srid 
+
+1. Availability
+
+   Weekends (flexible) or in the late evening, in EST timezone.
+   
+2. Experience
+
+   I consider myself beginner to intermediate. I'm comfortable with stuff like ReaderT but not much beyond that, and I'm looking to learn more Haskell concepts through actually writing Haskell code.
+   
+3. Interests
+
+   I write Haskell professionally and we use Reflex (obviously). In my spare time I'm currently exploring the idea of a _well-typed outliner_ in Reflex. I also use NixOS.
+   
 ## taosx
 
 1. Availability
