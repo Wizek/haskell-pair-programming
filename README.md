@@ -29,6 +29,7 @@
 | [wizek](#wizek)                           | 🚗🚁 | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺 |
 | [YellowDogDingo](#yellowdogdingo)         | 🚗🚁 | anything                    | UTC (GMT) flexible                         | 🇺🇸    |
 | [zfnmxt](#zfnmxt)                         | 🚲   | anything                     | UTC+2 (CEST) weekends/evenings            | 🇺🇸  |
+| [abailly](#abailly)                         | 🚁✈️ | anything                     | UTC+2 (CEST) lunch time/evenings            | 🇺🇸🇫🇷 |
 
 
 
@@ -451,3 +452,19 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
    "calls". I'm not sure I'd be comfortable doing that and would be more interested in 
    text-based interaction. I don't even necessarily strictly want to do pair-programming--just 
    working together with someone on something would be great!
+
+## abailly
+
+1. Availability
+
+   I'm available some evenings and at lunch time during weekdays.
+
+2. Experience
+
+   I've been programming with Haskell in my spare time since 2001 and professionally since 2014.
+   I have broad knowledge of quite a few parts of Haskell, from building to some type-level wizardry.
+
+3. Interests
+
+   Helping others getting stuff done.
+   Learning new ways of working with Haskell.
