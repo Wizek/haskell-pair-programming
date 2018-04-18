@@ -26,7 +26,7 @@
 | [tech-learner-maker](#tech-learner-maker) | 🚗   | hledger                     | UTC+5:30, 5-8pm or 12-2pm                  | 🇺🇸   |
 | [therealjohnfreeman](#therealjohnfreeman) | 🚶 🚲 | book exercises              | UTC-5 Texas, evenings and weekends         | 🇺🇸   |
 | [wizek](#wizek)                           | 🚗🚁 | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺 |
-| [YellowDogDingo](#YellowDogDingo)         | 🚗🚁 | anything                    | UTC (GMT) flexible                         | 🇺🇸    |
+| [YellowDogDingo](#yellowdogdingo)         | 🚗🚁 | anything                    | UTC (GMT) flexible                         | 🇺🇸    |
 
 Legend:  
 - Self-assessed experience level: 🚶 novice, 🚲 beginner, 🚗 intermediate, 🚁 advanced, ✈️ expert, 🚀 master  
