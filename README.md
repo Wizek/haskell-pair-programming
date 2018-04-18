@@ -426,8 +426,7 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
 
 1. Availability
 
-   I'm available most evenings/weekends--I'm a student, so potentially 
-   other times work too depending on lectures for the day.
+   I'm available most evenings/weekends (I'm a student).
 
 2. Experience
 
@@ -441,11 +440,14 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
 
 3. Interests
 
-   My GitHub is empty: I want to change that. I'm also bad at git and I'd basically just
-   like to get involved in the whole ecosystem of working on a project together with someone. 
-   But I'd also like to simply get better at Haskell; I'm open to working on anything.
+   My GitHub is empty: I'd really like to change that!
+   Ideally, I'd like to work on a project together with someone 
+   (and maybe also learn git properly in the process :) ).
+   
+   In the end, my primary goal is simply to get better at Haskell; I'm open to working on anything
+   that will help me in that regard.
    
    I noticed that in the /r/Haskell posts, the pair-programming sessions were referred to as
    "calls". I'm not sure I'd be comfortable doing that and would be more interested in 
-   text-based interaction. I don't even necessarily strictly want to do pair-programming: just 
+   text-based interaction. I don't even necessarily strictly want to do pair-programming--just 
    working together with someone on something would be great!
