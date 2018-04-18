@@ -26,6 +26,7 @@
 | [tech-learner-maker](#tech-learner-maker) | 🚗   | hledger                     | UTC+5:30, 5-8pm or 12-2pm                  | 🇺🇸   |
 | [therealjohnfreeman](#therealjohnfreeman) | 🚶 🚲 | book exercises              | UTC-5 Texas, evenings and weekends         | 🇺🇸   |
 | [wizek](#wizek)                           | 🚗🚁 | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺 |
+| [YellowDogDingo](#YellowDogDingo)         | 🚗🚁 | anything                    | UTC (GMT) flexible                         | 🇺🇸    |
 
 Legend:  
 - Self-assessed experience level: 🚶 novice, 🚲 beginner, 🚗 intermediate, 🚁 advanced, ✈️ expert, 🚀 master  
@@ -36,8 +37,8 @@ Legend:
 
 Note: It's okay if you make an entry without answering some of these questions, it can just help us a bit more if you do answer. It might also help you get the kinds of sessions that you'd like.
 
-1. What's your time availability? 
-    - E.g. "next Saturday 14:00-16:00 UTC" 
+1. What's your time availability?
+    - E.g. "next Saturday 14:00-16:00 UTC"
     - Or "generally Wednesday mornings, around 7:00-10:00 am UTC-10"
     - Or "I don't yet know but I still want to write here and find a time later."
     - Or "Even now."
@@ -111,7 +112,7 @@ I enjoy pair programming.
 I am currently writing a dependently typed actor framework in Haskell as my bachelors thesis.                                                                                                                                               
 
 1. Availability                                                                                                                                                                                                                              
-   
+
    I'm available Mondays, Thursdays and Fridays. Maybe on the weekends too if I don't have anything to do.                                                                                                                                  
 
 2. Experience                                                                                                                                                                                                                               
@@ -214,7 +215,7 @@ window to work on these things.
 
    I'll admit my list is a bit me-centric.
 
-   
+
 ## kwf
 
 I'm kwf most places on the internet, you may know me as Kenny Foner offline.
@@ -223,14 +224,14 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
 
    This is pretty variable, but right now Wednesdays during the day and weekends
    are the best bet. (I'm on USA Eastern time.)
-   
+
 2. Experience
 
    I'm a third-year PhD student in programming languages at UPenn; I've been programming
    primarily in Haskell for about 6 years. I've also written a few Haskell Symposium papers.
    :) I still have a lot to learn though! And I'd be totally into pairing with someone less
    experienced, so don't be afraid to ask.
-   
+
 3. Interests
 
    I like weird things with laziness, comonads, dependently-typed-ish programming.
@@ -339,7 +340,7 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
 
 ## wizek
 
-1. Availability 
+1. Availability
 
    Time is quite flexible for me. E.g. even now for the next few hours I could
    start and try a session with one of you. I live in UTC+2, CEST, but that
@@ -367,3 +368,33 @@ I'm kwf most places on the internet, you may know me as Kenny Foner offline.
      https://gist.github.com/Wizek/396b0a608fa93d7d458a78dbf7c88870 Maybe with
      someone who has a deeper understanding than I currently possess about GHC
      and similar type errors.
+
+## YellowDogDingo
+
+1. Availability
+
+   I'm in my final year of undergrad, so I'm busy often but awake most of the
+   time and flexible.
+
+2. Experience
+
+   I've dabbled with a lot of ideas / libraries but I'm not an expert in any
+   area. I've done a few projects in Haskell for Uni; a small webserver from
+   scratch and a genetic algorithm that evolves city layouts.
+
+   My current project is a 3D rhythm game (like Guitar Hero) using Yampa and
+   SDL / OpenGL.
+
+3. Interests
+
+   Despite my choices of projects, the topics I'm most interested in tend to be
+   more abstract / mathematical, including
+
+   - type level programming/magic and dependent types
+   - free monads / recursion-schemes
+   - computer algebra (symbolic computation), AD, computable reals etc.
+
+   I know a little category theory and I'm looking to learn more.
+
+   I'm interested on collaborating on pretty much anything and I'm happy to pair
+   with people of any experience.
