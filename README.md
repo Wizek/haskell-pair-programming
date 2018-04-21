@@ -1,6 +1,6 @@
 [![Come chat on Gitter](https://badges.gitter.im/haskell-pair-programming/Lobby.svg)](https://gitter.im/haskell-pair-programming/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Rules
+## How to join?
 
 1. Join [the Gitter chat](https://gitter.im/haskell-pair-programming/Lobby).
 2. Create a pull request.
