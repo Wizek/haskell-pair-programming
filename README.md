@@ -241,6 +241,7 @@ window to work on these things.
 ## kwf
 
 I'm kwf most places on the internet, you may know me as Kenny Foner offline.
+The best way to contact me is via email: <kwf@very.science>.
 
 1. Availability
 
