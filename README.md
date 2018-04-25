@@ -21,6 +21,7 @@
 | [chisui](#chisui)                         | 🚗   | -                           | UTC+2 (CEST) Mo, Thu, Fr                   | 🇺🇸 🇩🇪  |
 | [kevroletin](#kevroletin)                 | 🚗   | -                           | UTC+10 flexible                            | 🇺🇸 🇷🇺 |
 | [ekmett](#ekmett)                         | ✈️🚀 | own projects                | UTC-4 (EDT) weekends, and some evenings    | 🇺🇸   |
+| [isovector](#isovector)                         | 🚁✈️ | s'all good, man | UTC+2 pretty much whenever is good for me!| 🇺🇸   |
 | [kwf](#kwf)                               | 🚁✈️ | -                           | UTC-4 (EDT) weekends, maybe W or F afternoons | 🇺🇸 |
 | [sebastian](#sebastian)                   | 🚲    | -                           | UTC+2 (CEST) weekends or evenings         | 🇺🇸 🇩🇪 🇳🇴 |
 | [srid](#srid)                   | 🚲🚗  | reflex                           | UTC+5 (EST) weekends or late evenings         | 🇺🇸 🇫🇷 |
@@ -33,10 +34,10 @@
 | [zfnmxt](#zfnmxt)                         | 🚲   | anything                     | UTC+2 (CEST) weekends/evenings            | 🇺🇸  |
 
 
-Legend:  
-- Self-assessed experience level: 🚶 novice, 🚲 beginner, 🚗 intermediate, 🚁 advanced, ✈️ expert, 🚀 master  
-- Spoken language: 🇺🇸 English, 🇭🇺 Hungarian, 🇷🇺 Russian, etc...  
-  - Order your language flags based on your preference. You can find your flag by searching [here](https://emojipedia.org).  
+Legend:
+- Self-assessed experience level: 🚶 novice, 🚲 beginner, 🚗 intermediate, 🚁 advanced, ✈️ expert, 🚀 master
+- Spoken language: 🇺🇸 English, 🇭🇺 Hungarian, 🇷🇺 Russian, etc...
+  - Order your language flags based on your preference. You can find your flag by searching [here](https://emojipedia.org).
 
 ## Profile questions
 
@@ -129,21 +130,21 @@ I enjoy pair programming.
    Definitely interested in learning Reflex. Interested to learn GHC's codebase.
    Or we can hack on Squeal.
 
-## chisui                                                                                                                                                                                                                                   
+## chisui
 
-I am currently writing a dependently typed actor framework in Haskell as my bachelors thesis.                                                                                                                                               
+I am currently writing a dependently typed actor framework in Haskell as my bachelors thesis.
 
-1. Availability                                                                                                                                                                                                                              
+1. Availability
 
-   I'm available Mondays, Thursdays and Fridays. Maybe on the weekends too if I don't have anything to do.                                                                                                                                  
+   I'm available Mondays, Thursdays and Fridays. Maybe on the weekends too if I don't have anything to do.
 
-2. Experience                                                                                                                                                                                                                               
+2. Experience
 
    About 4 years on/off, intermediate.
 
-3. Interests                                                                                                                                                                                                                                
+3. Interests
 
-   Learning cool stuff, sharing what I know. And my bachelors thesis I guess.                                                                                                                                                               
+   Learning cool stuff, sharing what I know. And my bachelors thesis I guess.
 
 ## kevroletin
 
@@ -237,6 +238,25 @@ window to work on these things.
 
    I'll admit my list is a bit me-centric.
 
+## isovector
+
+The best way to contact me is via email: <sandy@sandymaguire.me>.
+
+1. Availability
+
+   I recently quit the tech world to run away and work on my own projects full
+   time, so I'm pretty free. Hit me up. Let's do something!
+
+2. Experience
+
+   I'm about four years deep into Haskell, including having done it
+   professionally for a year and a half.
+
+3. Interests
+
+   Making compilers and video games; doing tricky things at the type level;
+   denotational design. Lately I've been trying to hack on GHC, which would be
+   fun to pair with someone on.
 
 ## kwf
 
@@ -289,20 +309,20 @@ The best way to contact me is via email: <kwf@very.science>.
      on my part is hacking on [hledger](https://github.com/simonmichael/hledger).
      I would like to add a [YNAB](https://www.youneedabudget.com/)-like interface to it.
 
-## srid 
+## srid
 
 1. Availability
 
    Weekends (flexible) or in the late evening, in EST timezone.
-   
+
 2. Experience
 
    I consider myself beginner to intermediate. I'm comfortable with stuff like ReaderT but not much beyond that, and I'm looking to learn more Haskell concepts through actually writing Haskell code.
-   
+
 3. Interests
 
    I write Haskell professionally and we use Reflex (obviously). In my spare time I'm currently exploring the idea of a _well-typed outliner_ in Reflex. I also use NixOS.
-   
+
 ## taosx
 
 1. Availability
@@ -466,21 +486,21 @@ The best way to contact me is via email: <kwf@very.science>.
    I'm a beginner.
 
    I took an FP course the first semester of my MSc and am familiar with
-   most of the content in Haskell from First Principles. 
+   most of the content in Haskell from First Principles.
    I've also done Brent Yorgey's UPenn course. I'm also somewhat familiar
    with Coq and semantics/type theory. I have an okay (albeit fairly applied/non-rigorous)
-   mathematical background. 
+   mathematical background.
 
 3. Interests
 
    My GitHub is empty: I'd really like to change that!
-   Ideally, I'd like to work on a project together with someone 
+   Ideally, I'd like to work on a project together with someone
    (and maybe also learn git properly in the process :) ).
-   
+
    In the end, my primary goal is simply to get better at Haskell; I'm open to working on anything
    that will help me in that regard.
-   
+
    I noticed that in the /r/Haskell posts, the pair-programming sessions were referred to as
-   "calls". I'm not sure I'd be comfortable doing that and would be more interested in 
-   text-based interaction. I don't even necessarily strictly want to do pair-programming--just 
+   "calls". I'm not sure I'd be comfortable doing that and would be more interested in
+   text-based interaction. I don't even necessarily strictly want to do pair-programming--just
    working together with someone on something would be great!
