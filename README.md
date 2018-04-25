@@ -16,6 +16,7 @@
 | ----------------------------------------- | ----- | --------------------------- | ------------------------------------------ | ---- |
 | [abailly](#abailly)                         | 🚁✈️ | anything                     | UTC+2 (CEST) lunch time/evenings            | 🇺🇸 🇫🇷 |
 | [aggie0](#aggie0)                         | 🚗   | cat theory, dependent types | US, flexible                               | 🇺🇸   |
+| [anniecherk](#anniecherk)                 | 🚗   | anything                    | US, flexible                               | 🇺🇸   |
 | [attilah](#attilah)                       | 🚗   | -                           | ? flexible                                 | 🇺🇸   |
 | [echatav](#echatav)                       | 🚁   | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | 🇺🇸   |
 | [chisui](#chisui)                         | 🚗   | -                           | UTC+2 (CEST) Mo, Thu, Fr                   | 🇺🇸 🇩🇪  |
@@ -97,6 +98,23 @@ Note: It's okay if you make an entry without answering some of these questions, 
    dependently typed stuff (Idris, Agda). I also have an open source library for
    some math stuff we can hack on.
 
+## anniecherk
+
+1. Availability
+
+   All over the place; weekends are usually good though.
+
+2. Experience
+
+   I started using Haskell about 3 years ago; I'm a grad student and 
+   Haskell is my goto language these days for research projects.
+
+3. Interests
+
+   Happy to pair on whatever! I love compilers, would be happy to hack on GHC.
+   I'm also interesting in learning Idris and interacting w/ SMT solvers, 
+   and I'd like to learn more language extensions. 
+   
 ## attilah
 
 1. Availability
