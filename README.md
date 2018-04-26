@@ -23,6 +23,7 @@
 | [kevroletin](#kevroletin)                 | 🚗   | -                           | UTC+10 flexible                            | 🇺🇸 🇷🇺 |
 | [ekmett](#ekmett)                         | ✈️🚀 | own projects                | UTC-4 (EDT) weekends, and some evenings    | 🇺🇸   |
 | [isovector](#isovector)                         | 🚁✈️ | s'all good, man | UTC+2 pretty much whenever is good for me!| 🇺🇸   |
+| [kcsongor](#kcsongor)                     | 🚁✈️ | types, generics, or anything else | UTC+1 (BST) randomly, pretty flexible | 🇺🇸 🇭🇺 |
 | [kwf](#kwf)                               | 🚁✈️ | -                           | UTC-4 (EDT) weekends, maybe W or F afternoons | 🇺🇸 |
 | [sebastian](#sebastian)                   | 🚲    | -                           | UTC+2 (CEST) weekends or evenings         | 🇺🇸 🇩🇪 🇳🇴 |
 | [srid](#srid)                   | 🚲🚗  | reflex                           | UTC+5 (EST) weekends or late evenings         | 🇺🇸 🇫🇷 |
@@ -275,6 +276,21 @@ The best way to contact me is via email: <sandy@sandymaguire.me>.
    Making compilers and video games; doing tricky things at the type level;
    denotational design. Lately I've been trying to hack on GHC, which would be
    fun to pair with someone on.
+   
+## kcsongor
+   
+1. What's your time availability?
+   
+   Most likely in the evenings (UTC + 1).
+
+2. What's your Haskell level of experience, roughly?
+    
+   I've been using Haskell almost exclusively for 3 years, and recently I wrote
+   the [generic-lens](https://hackage.haskell.org/package/generic-lens) library.
+
+3. What topics or codebases are you interested in?
+
+    GHC, fancy types, and generics mainly, but I'm happy to learn about anything weird!
 
 ## kwf
 
