@@ -23,7 +23,7 @@
 | [kevroletin](#kevroletin)                 | 🚗   | -                           | UTC+10 flexible                            | 🇺🇸 🇷🇺 |
 | [ekmett](#ekmett)                         | ✈️🚀 | own projects                | UTC-4 (EDT) weekends, and some evenings    | 🇺🇸   |
 | [isovector](#isovector)                         | 🚁✈️ | s'all good, man | UTC+2 pretty much whenever is good for me!| 🇺🇸   |
-| [kcsongor](#kcsongor)                     | 🚁✈️ | types, generics, or anything else | UTC+1 (BST) randomly, pretty flexible | 🇬🇧 🇭🇺 |
+| [kcsongor](#kcsongor)                     | 🚁✈️ | types, generics, or anything else | UTC+1 (BST) randomly, pretty flexible | 🇺🇸 🇭🇺 |
 | [kwf](#kwf)                               | 🚁✈️ | -                           | UTC-4 (EDT) weekends, maybe W or F afternoons | 🇺🇸 |
 | [sebastian](#sebastian)                   | 🚲    | -                           | UTC+2 (CEST) weekends or evenings         | 🇺🇸 🇩🇪 🇳🇴 |
 | [srid](#srid)                   | 🚲🚗  | reflex                           | UTC+5 (EST) weekends or late evenings         | 🇺🇸 🇫🇷 |
