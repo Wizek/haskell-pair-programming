@@ -25,6 +25,7 @@
 | [isovector](#isovector)                         | 🚁✈️ | s'all good, man | UTC+2 pretty much whenever is good for me!| 🇺🇸   |
 | [kcsongor](#kcsongor)                     | 🚁✈️ | types, generics, or anything else | UTC+1 (BST) randomly, pretty flexible | 🇺🇸 🇭🇺 |
 | [kwf](#kwf)                               | 🚁✈️ | -                           | UTC-4 (EDT) weekends, maybe W or F afternoons | 🇺🇸 |
+| [Profpatsch](#Profpatsch)                 | 🚗   | purescript, nix, haskell     | UTC+2 (CEST), flexible (ping me)          | 🇺🇸 🇩🇪 |
 | [sebastian](#sebastian)                   | 🚲    | -                           | UTC+2 (CEST) weekends or evenings         | 🇺🇸 🇩🇪 🇳🇴 |
 | [srid](#srid)                   | 🚲🚗  | reflex                           | UTC+5 (EST) weekends or late evenings         | 🇺🇸 🇫🇷 |
 | [taosx](#taosx)                       | 🚶 🚲 | Pair Learning               | UTC+3                                      | 🇺🇸 🇬🇷 🇷🇴 |
@@ -316,6 +317,41 @@ The best way to contact me is via email: <kwf@very.science>.
    interesting. Right now my primary work project is developing a pedagogical
    framework for teaching the fundamentals of distributed systems algorithms in
    Haskell.
+
+## Profpatsch
+
+I like doing practical things with lambdas.
+
+1. Availability
+
+   Just ping me (on `freenode`, `oftc`, the Gitter chat, …).
+   I am generally very flexible, but it depends on the week.
+
+2. Experience
+
+   I’ve been coding `Haskell` since 2015, since about 2016 as my main lang.
+   I’ve written [medium-sized projects](https://github.com/Profpatsch/yarn2nix),
+   but mostly focus on small tools that fit well together (so no industry-size
+   apps so far). I like abusing the `nix` expression language for practical
+   purposes and am a core maintainers for parts of
+   [`nixkpgs/lib`](https://github.com/NixOS/nixpkgs/tree/master/lib). Recently
+   I’ve started digging into `Purescript`.
+
+3. Interests
+
+   - Learning new abstractions (comonads, recursion schemes, lens, …)
+   - Abstracting ugly dev-ops stuff away with functional code
+   - Browser-UIs and portable applications
+   - Everything nix
+
+4. Projects
+
+   - [`yarn2nix`](https://github.com/Profpatsch/yarn2nix):
+     build and deploy node packages with nix
+   - [`types-simple`](https://github.com/NixOS/nixpkgs/pull/37252):
+     a new type system for `nixpkgs`, based on recursion schemes
+   - [`a static blog generator`](https://github.com/Profpatsch/blog/blob/master/dhall.nix)
+     using `dhall` and `nix`
 
 
 ## sebastian
