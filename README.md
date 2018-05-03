@@ -30,6 +30,7 @@
 | [kcsongor](#kcsongor)                     | 🚁✈️ | types, generics, or anything else | UTC+1 (BST) randomly, pretty flexible | 🇺🇸 🇭🇺 |
 | [kwf](#kwf)                               | 🚁✈️ | -                           | UTC-4 (EDT) weekends, maybe W or F afternoons | 🇺🇸 |
 | [Profpatsch](#Profpatsch)                 | 🚗   | purescript, nix, haskell     | UTC+2 (CEST), flexible (ping me)          | 🇺🇸 🇩🇪 |
+| [rjmk](#rjmk)                             | 🚗   | anything / own projects      | UTC+2 (CEST) weekends and evenings      | 🇺🇸 🇪🇸 (sorta) |
 | [sebastian](#sebastian)                   | 🚲    | -                           | UTC+2 (CEST) weekends or evenings         | 🇺🇸 🇩🇪 🇳🇴 |
 | [srid](#srid)                   | 🚲🚗  | reflex                           | UTC+5 (EST) weekends or late evenings         | 🇺🇸 🇫🇷 |
 | [taosx](#taosx)                       | 🚶 🚲 | Pair Learning               | UTC+3                                      | 🇺🇸 🇬🇷 🇷🇴 |
@@ -374,6 +375,27 @@ I like doing practical things with lambdas.
    - [`a static blog generator`](https://github.com/Profpatsch/blog/blob/master/dhall.nix)
      using `dhall` and `nix`
 
+## rjmk
+
+1. Availability
+
+   I work fairly standard hours, so evenings and weekends are good. I'm up for
+   spur of the moment stuff if I'm around, but often I am not, so a little notice
+   is good.
+
+2. Experience
+
+   I've been poking at Haskell for close to 3 years, and I've been working as a
+   Haskell developer for close to 18 months.
+
+3. Interests
+
+   I have a couple of small projects I want to make just to improve my life or
+   help me learn things. In that vein, I'd be interested in making a couple of
+   games.
+   
+   I'm also _very_ happy to just play around with encoding things nicely with
+   types or learning some maths.
 
 ## sebastian
 
