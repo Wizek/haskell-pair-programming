@@ -7,8 +7,11 @@
    Add your short contact info in this file into the [summary table](#summary-table) and [detailed info](#profile-questions) in the
    section below. Please pay attention to alphabetical order in both places.
    After sending your PR you'll be given contributor rights making you able to change or remove your entry at any time.
+   Please accept your invitation [here](https://github.com/Wizek/haskell-pair-programming/invitations).
 3. Use your Github nickname (the same nickname as in [the chat](https://gitter.im/haskell-pair-programming/Lobby)).
 4. Tell everyone about the club.
+
+
 
 ## Summary table
 
