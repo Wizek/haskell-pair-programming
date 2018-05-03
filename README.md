@@ -20,6 +20,7 @@
 | [attilah](#attilah)                       | 🚗   | -                           | ? flexible                                 | 🇺🇸   |
 | [echatav](#echatav)                       | 🚁   | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | 🇺🇸   |
 | [chisui](#chisui)                         | 🚗   | -                           | UTC+2 (CEST) Mo, Thu, Fr                   | 🇺🇸 🇩🇪  |
+| [dfordivam](#dfordivam)                   | 🚗   | reflex, webghc              | UTC+9 (JST) flexible            | 🇺🇸 🇯🇵 |
 | [kevroletin](#kevroletin)                 | 🚗   | -                           | UTC+10 flexible                            | 🇺🇸 🇷🇺 |
 | [ekmett](#ekmett)                         | ✈️🚀 | own projects                | UTC-4 (EDT) weekends, and some evenings    | 🇺🇸   |
 | [isovector](#isovector)                         | 🚁✈️ | s'all good, man | UTC+2 pretty much whenever is good for me!| 🇺🇸   |
@@ -165,6 +166,23 @@ I am currently writing a dependently typed actor framework in Haskell as my bach
 3. Interests
 
    Learning cool stuff, sharing what I know. And my bachelors thesis I guess.
+
+## dfordivam
+
+I have used reflex recently for my japanese learning app tenjinreader.com
+
+1. Availability
+
+   Any day of week, morning till evening.
+
+2. Experience
+
+   About 4 years learning haskell, and 1 year full-time.
+
+3. Interests
+
+   Do some interesting stuff in reflex, or perhaps webghc if anyone interested. 
+   I also need to do some improvements to my library https://github.com/dfordivam/reflex-websocket-interface
 
 ## kevroletin
 
