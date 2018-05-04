@@ -37,6 +37,7 @@
 | [tech-learner-maker](#tech-learner-maker) | 🚗   | hledger                     | UTC+5:30, 5-8pm or 12-2pm                  | 🇺🇸   |
 | [therealjohnfreeman](#therealjohnfreeman) | 🚶 🚲 | book exercises              | UTC-5 Texas, evenings and weekends         | 🇺🇸   |
 | [vaibhavsagar](#vaibhavsagar)         | 🚲🚗 | anything                    | UTC+8, evenings and weekends                         | 🇺🇸    |
+| [wisn](#wisn)                             | 🚲🚗 | static analysis, web dev    | UTC+7 weekends                             | 🇮🇩 🇺🇸 |
 | [wizek](#wizek)                           | 🚗🚁 | reflex, hs-di               | UTC+2 flexible                             | 🇺🇸 🇭🇺 |
 | [YellowDogDingo](#yellowdogdingo)         | 🚗🚁 | anything                    | UTC (GMT) flexible                         | 🇺🇸    |
 | [zfnmxt](#zfnmxt)                         | 🚲   | anything                     | UTC+2 (CEST) weekends/evenings            | 🇺🇸  |
@@ -526,6 +527,27 @@ I like doing practical things with lambdas.
    I'm interested in applying functional programming to solve problems. I use
    Nix in my day job and am slowly working through the Idris book. I'm happy to
    pair with people of any experience level.
+   
+## wisn
+
+1. Availability
+
+   I'm usually typing Haskell code in the night time and almost full time in the
+   weekends.
+
+2. Experience
+
+   Started to learn Haskell in the end of 2016. Learn part-timely alongside my
+   college life. I have been made several static analysis prototype program that
+   works. There are tons of things I need to know about Haskell.
+
+3. Interest
+
+   My dream is to be a computer scientist and doing programming language research
+   especially functional programming in the future. So, my interest is anything that
+   related to it. However, for now, I took more interest in static analysis (linter)
+   and parser in general. Web development also good to me since I'm a web developer
+   before.
 
 ## wizek
 
