@@ -20,7 +20,7 @@
 | [abailly](#abailly)                         | 🚁✈️ | anything                     | UTC+2 (CEST) lunch time/evenings            | 🇺🇸 🇫🇷 |
 | [aggie0](#aggie0)                         | 🚗   | cat theory, dependent types | US, flexible                               | 🇺🇸   |
 | [anniecherk](#anniecherk)                 | 🚗   | anything                    | US, flexible                               | 🇺🇸   |
-| [attilah](#attilah)                       | 🚗   | -                           | ? flexible                                 | 🇺🇸   |
+| [attilah-reddit](#attilah-reddit)                       | 🚗   | -                           | ? flexible                                 | 🇺🇸   |
 | [echatav](#echatav)                       | 🚁   | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | 🇺🇸   |
 | [chisui](#chisui)                         | 🚗   | -                           | UTC+2 (CEST) Mo, Thu, Fr                   | 🇺🇸 🇩🇪  |
 | [dfordivam](#dfordivam)                   | 🚗   | reflex, webghc              | UTC+9 (JST) flexible            | 🇺🇸 🇯🇵 |
@@ -123,7 +123,7 @@ Note: It's okay if you make an entry without answering some of these questions, 
    I'm also interesting in learning Idris and interacting w/ SMT solvers, 
    and I'd like to learn more language extensions. 
    
-## attilah
+## attilah-reddit
 
 1. Availability
 
