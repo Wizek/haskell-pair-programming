@@ -30,6 +30,7 @@
 | [kcsongor](#kcsongor)                     | 🚁✈️ | types, generics, or anything else | UTC+1 (BST) randomly, pretty flexible | 🇺🇸 🇭🇺 |
 | [kwf](#kwf)                               | 🚁✈️ | -                           | UTC-4 (EDT) weekends, maybe W or F afternoons | 🇺🇸 |
 | [Profpatsch](#Profpatsch)                 | 🚗   | purescript, nix, haskell     | UTC+2 (CEST), flexible (ping me)          | 🇺🇸 🇩🇪 |
+| [rizary](#rizary)                         | 🚲🚗 | nix,purescript,reflex  | UTC+7 from 8am to 11 pm, except weekends       | 🇮🇩 🇺🇸 |
 | [rjmk](#rjmk)                             | 🚗   | anything / own projects      | UTC+2 (CEST) weekends and evenings      | 🇺🇸 🇪🇸 (sorta) |
 | [sebastian](#sebastian)                   | 🚲    | -                           | UTC+2 (CEST) weekends or evenings         | 🇺🇸 🇩🇪 🇳🇴 |
 | [srid](#srid)                   | 🚲🚗  | reflex                           | UTC+5 (EST) weekends or late evenings         | 🇺🇸 🇫🇷 |
@@ -375,6 +376,20 @@ I like doing practical things with lambdas.
      a new type system for `nixpkgs`, based on recursion schemes
    - [`a static blog generator`](https://github.com/Profpatsch/blog/blob/master/dhall.nix)
      using `dhall` and `nix`
+
+## rizary
+
+1. Availability
+
+   I'm available between (UTC+7) 7 AM to 11 PM except for weekends which I can't do pair programming. Please ping me first or 1 hour before so I can prepare myself.
+
+2. Experience
+
+   I have made 3rd year project using reflex and reflex-dom using Jsaddle-wkWebView but I still dont have open source library. It's been 3 years for me since first time I discovered Haskell, but due to unfriendly school schedule, I studied it on and off.
+
+3. Interests
+
+   Web programming in general which use fullstack haskell, as well as machine learning (I just learn it this year). I prefer backend than frontend stuff, but both works fine actually.
 
 ## rjmk
 
