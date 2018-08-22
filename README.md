@@ -19,6 +19,7 @@
 | ----------------------------------------- | ----- | --------------------------- | ------------------------------------------ | ---- |
 | [abailly](#abailly)                         | 🚁✈️ | anything                     | UTC+2 (CEST) lunch time/evenings            | 🇺🇸 🇫🇷 |
 | [aggie0](#aggie0)                         | 🚗   | cat theory, dependent types | US, flexible                               | 🇺🇸   |
+| [ancarda](#ancarda)                       | 🚲   | networking, parsing, tdd    | UTC+1 (BST) weekends                       | 🇺🇸 |
 | [anniecherk](#anniecherk)                 | 🚗   | anything                    | US, flexible                               | 🇺🇸   |
 | [attilah-reddit](#attilah-reddit)                       | 🚗   | -                           | ? flexible                                 | 🇺🇸   |
 | [echatav](#echatav)                       | 🚁   | reflex, ghc, squel          | Pacific time, flexible, better 4pm Mondays | 🇺🇸   |
@@ -106,6 +107,28 @@ Note: It's okay if you make an entry without answering some of these questions, 
    Anything can work, maybe we can alternate. I'm really interested in
    dependently typed stuff (Idris, Agda). I also have an open source library for
    some math stuff we can hack on.
+
+## ancarda
+
+1. Availability
+
+   As of September 2018, I should be available for evenings. I'm much more
+   flexible on the weekends, and should be able to do almost any time. I'm
+   based in the UK.
+
+2. Experience
+
+   Maybe around a year? I've written several small toy projects. Currently I'm
+   building my first large system in Haskell; a SIP server.
+
+3. Interests
+
+   I'm trying to find The Haskell Way of doing things; what is the most
+   idiomatic way to solve particular problems. I'm very interested in correct
+   code, which is what made me look at Haskell.
+
+   I really like networking, so I will want to work on anything related to
+   sockets and parsing of packets.
 
 ## anniecherk
 
